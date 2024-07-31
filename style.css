@@ -1,0 +1,33 @@
+body
+font-family:Arial, sans -serief;
+background-color: #f0f8ff;
+display:flex;
+justify-content: center;
+height: 100vh;
+margin: 0;
+}
+ .container{
+  displa: flexjustify-conter: center;
+  align-items: center;
+  height: 100;
+  }
+  .card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: ; 0 4px 8px rgb {0, 0, 0.1)
+    text-align: center;
+    
+    )
+    
+    .card h1 {
+     color: #333;
+      margim-bottom: 20px;
+      ))
+      ;card button (
+      backgtound-color
+      color: #fff::afterborder: none;
+      border-radiud: 5px;
+      padding: 10px 20px;
+      cursor: pointer;
+      fonts-size: 16px;
+      )P;
